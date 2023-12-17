@@ -17,4 +17,4 @@ Instructions for control:
 
 
 
--Predd ENTER to switch to full screen mode
+-Press ENTER to switch to full screen mode
