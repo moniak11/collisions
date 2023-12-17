@@ -8,10 +8,13 @@ The project follows a group of balls that live according to the following rules:
 Instructions for control:
 
 
+
 -Click on the canvas to create a new ball
 
 
+
 -Move the cursor to deflect the moving balls
+
 
 
 -Predd ENTER to switch to full screen mode
